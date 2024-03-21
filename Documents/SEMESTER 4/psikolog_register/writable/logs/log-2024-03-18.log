@@ -1,0 +1,450 @@
+CRITICAL - 2024-03-18 07:22:31 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:22:36 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:23:12 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:23:26 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:23:27 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:23:27 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:24:21 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:24:46 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:25:29 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:25:41 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:26:41 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 07:26:53 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\PsikologController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+ERROR - 2024-03-18 08:00:15 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ps...', 0)
+#1 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ps...')
+#2 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ps...')
+#3 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ps...', Array, false)
+#4 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\app\Controllers\PsikologController.php(65): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+#9 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+#10 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa...')
+#13 {main}
+CRITICAL - 2024-03-18 08:00:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 08:00:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:15\', \'2024-03-18 08:00:15\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:15\', \'2024-03-18 08:00:15\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 08:00:15 --> [Caused by] mysqli_sql_exception: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:15\', \'2024-03-18 08:00:15\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:15\', \'2024-03-18 08:00:15\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:15\', \'2024-03-18 08:00:15\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+ERROR - 2024-03-18 08:00:40 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ps...', 0)
+#1 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ps...')
+#2 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ps...')
+#3 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ps...', Array, false)
+#4 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\app\Controllers\PsikologController.php(65): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+#9 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+#10 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa...')
+#13 {main}
+CRITICAL - 2024-03-18 08:00:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 08:00:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:40\', \'2024-03-18 08:00:40\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:40\', \'2024-03-18 08:00:40\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 08:00:40 --> [Caused by] mysqli_sql_exception: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:40\', \'2024-03-18 08:00:40\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:40\', \'2024-03-18 08:00:40\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:00:40\', \'2024-03-18 08:00:40\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+ERROR - 2024-03-18 08:01:03 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ps...', 0)
+#1 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ps...')
+#2 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ps...')
+#3 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ps...', Array, false)
+#4 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\app\Controllers\PsikologController.php(65): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+#9 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+#10 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Mahesa Agung Sejati\Documents\SEMESTER 4\psikolog_register\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa...')
+#13 {main}
+CRITICAL - 2024-03-18 08:01:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 08:01:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:01:03\', \'2024-03-18 08:01:03\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:01:03\', \'2024-03-18 08:01:03\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 08:01:03 --> [Caused by] mysqli_sql_exception: Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:01:03\', \'2024-03-18 08:01:03\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:01:03\', \'2024-03-18 08:01:03\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (\'Madara Uchiha\', \'madara33@gmail.com\', \'21212121\', \'081293874653\', \'Konoha\', \'Laki Laki\', \'2024-03-18 08:01:03\', \'2024-03-18 08:01:03\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `psikolog` (`nama`, `email`, `password`, `no_telepon`, `alamat`, `kelamin`, `created_at`, `updated_at`) VALUES (:nama:, :email:, :password:, :no_telepon:, :alamat:, :kelamin:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\PsikologController.php(65): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 09:18:22 --> Error: Call to a member function delete() on null
+in APPPATH\Controllers\PsikologController.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 09:50:45 --> CodeIgniter\Validation\Exceptions\ValidationException: "mime_in[sertifikat,image/jpg,image/jpeg,
+        image/png]" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('mime_in[sertifikat,image/jpg,image/jpeg,
+        image/png]')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('sertifikat', 'sertifikat', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\PsikologController.php(68): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 10:01:25 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\xampp\\tmp\\phpE5BE.tmp/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\tmp\\phpE5BE.tmp/')
+ 4 APPPATH\Controllers\PsikologController.php(84): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\tmp\\phpE5BE.tmp/', 'MuchaTseBle.jpeg')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 10:04:00 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\xampp\\tmp\\php4114.tmp/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\tmp\\php4114.tmp/')
+ 4 APPPATH\Controllers\PsikologController.php(84): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\tmp\\php4114.tmp/', 'footer_logo.png')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 10:07:15 --> ErrorException: mkdir(): No such file or directory
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\system\\HTTP\\Files\\UploadedFile.php', 185)
+ 2 SYSTEMPATH\HTTP\Files\UploadedFile.php(185): mkdir('C:\\xampp\\tmp\\php3CA2.tmp/', 511, true)
+ 3 SYSTEMPATH\HTTP\Files\UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\tmp\\php3CA2.tmp/')
+ 4 APPPATH\Controllers\PsikologController.php(84): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\tmp\\php3CA2.tmp/', 'footer_logo.png')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 14:20:16 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\PsikologController.php on line 150.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:13:39 --> ErrorException: unlink(sertifikat/6.jpg): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/6.jpg): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 139)
+ 2 APPPATH\Controllers\PsikologController.php(139): unlink('sertifikat/6.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('9')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:14:02 --> ErrorException: unlink(sertifikat/6.jpg): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/6.jpg): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 139)
+ 2 APPPATH\Controllers\PsikologController.php(139): unlink('sertifikat/6.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('9')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:15:01 --> ErrorException: unlink(sertifikat/C:\Users\Mahesa Agung Sejati\Pictures\asset\6.jpg): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/C:\\Users\\Mahesa Agung Sejati\\Pictures\\asset\\6.jpg): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 139)
+ 2 APPPATH\Controllers\PsikologController.php(139): unlink('sertifikat/C:\\Users\\Mahesa Agung Sejati\\Pictures\\asset\\6.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('9')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:17:31 --> ErrorException: unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 139)
+ 2 APPPATH\Controllers\PsikologController.php(139): unlink('sertifikat/1710785795_4c12adbb4070281791c7.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:18:11 --> ErrorException: unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 139)
+ 2 APPPATH\Controllers\PsikologController.php(139): unlink('sertifikat/1710785795_4c12adbb4070281791c7.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:18:43 --> ErrorException: unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 139)
+ 2 APPPATH\Controllers\PsikologController.php(139): unlink('sertifikat/1710785795_4c12adbb4070281791c7.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:30:08 --> ErrorException: unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/1710785795_4c12adbb4070281791c7.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 139)
+ 2 APPPATH\Controllers\PsikologController.php(139): unlink('sertifikat/1710785795_4c12adbb4070281791c7.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:44:34 --> ErrorException: unlink(uploads/1710785795_4c12adbb4070281791c7.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(uploads/1710785795_4c12adbb4070281791c7.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('uploads/1710785795_4c12adbb4070281791c7.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:44:45 --> ErrorException: unlink(uploads/1710785795_4c12adbb4070281791c7.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(uploads/1710785795_4c12adbb4070281791c7.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('uploads/1710785795_4c12adbb4070281791c7.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:45:18 --> ErrorException: unlink(uploads/1710785795_4c12adbb4070281791c7.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(uploads/1710785795_4c12adbb4070281791c7.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('uploads/1710785795_4c12adbb4070281791c7.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('10')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:47:16 --> ErrorException: unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('uploads/1710787583_aa8a0fbbc515bc1a7348.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('11')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:47:29 --> ErrorException: unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('uploads/1710787583_aa8a0fbbc515bc1a7348.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('11')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:48:25 --> ErrorException: unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('uploads/1710787583_aa8a0fbbc515bc1a7348.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('11')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:48:54 --> ErrorException: unlink(sertifikat/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sertifikat/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('sertifikat/1710787583_aa8a0fbbc515bc1a7348.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('11')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
+CRITICAL - 2024-03-18 18:50:39 --> ErrorException: unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory
+in APPPATH\Controllers\PsikologController.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(uploads/1710787583_aa8a0fbbc515bc1a7348.png): No such file or directory', 'C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\app\\Controllers\\PsikologController.php', 140)
+ 2 APPPATH\Controllers\PsikologController.php(140): unlink('uploads/1710787583_aa8a0fbbc515bc1a7348.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PsikologController->update('11')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PsikologController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mahesa Agung Sejati\\Documents\\SEMESTER 4\\psikolog_register\\public\\index.php')
